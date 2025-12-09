@@ -110,7 +110,7 @@ Setup
 
 Clone the repo:
 ```bash
-git clone https://github.com/onkarlonkar9/mobile-shopping-app-DevOps.git
+git clone https://github.com/itzsujal7/mobile-shopping-app-devops.git
 cd mobile-shopping-app-DevOps
 ```
 Setup backend:
